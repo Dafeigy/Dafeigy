@@ -6,7 +6,7 @@
 - 📚 Postgraduate in Communiocation Engineering at 🇨🇳 [USTB](https://www.ustb.edu.cn/)
 - ⚡ Python. Also Matlab/R/C/C++/Java/Javascript.
 - ✍️ Write CN blog in my [Blogger](https://cybercolyce.cn/).
-- 🏃 Swiming / Badminton / Jogging /
+- 🏃 Swimming / Badminton / Jogging /
 - 🎵 Saxophone / Piano / Hulusi / Bamboo Flute / Bawu 
 - ♟  Chess 
 - 🎮 Steam ID：925879378
