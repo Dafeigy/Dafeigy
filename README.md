@@ -20,26 +20,25 @@
 
 <div>
   
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/commonmark/commonmark-ar21.svg"></code>
+<code><img width="18%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="18%" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></code>
+<code><img width="18%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>
+<code><img width="18%" src="https://www.vectorlogo.zone/logos/commonmark/commonmark-ar21.svg"></code>
 
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
+<code><img width="18%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<code><img width="18%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
+<code><img width="18%" src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg"></code>
+<code><img width="18%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code> 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="18%" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code> 
+<code><img width="18%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+<code><img width="18%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+<code><img width="18%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </div>
 
-<div>
-  <code><img src = "https://github-readme-stats.vercel.app/api?username=Dafeigy&show_icons=true&hide_border=true" ></code>
-</div>
+![](https://github-readme-stats.vercel.app/api?username=Dafeigy&show_icons=true&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dafeigy)
 
 
 
