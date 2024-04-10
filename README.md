@@ -1,5 +1,7 @@
 ## 👋 Hi,I'm Cybersh1t
 
+
+
 - 👋 Graduated BC in Communication Engineering at 🇨🇳 [TJU](http://www.tju.edu.cn/)
 
 - 🫠 Postgraduate in Communiocation Engineering at 🇨🇳 [USTB](https://www.ustb.edu.cn/)
@@ -12,12 +14,11 @@
   
 - 🎮 Play with me on Steam ID：925879378
 
-- 🔥 Monster Hunter Series / Hades / Gunfire Reborn / 2D-Pixel Games / Roguelite Games
+- 🔥 Monster Hunter Series / Hades / 2D-Pixel Games / Roguelite Games
 
 ### :computer: Programming languages and tools: 
 
 <div>
-<code><img width="40%"src = "https://github-readme-stats.vercel.app/api?username=Dafeigy&show_icons=true&hide_border=true" ></code>
   
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></code>
@@ -34,6 +35,10 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+</div>
+
+<div>
+  <code><img src = "https://github-readme-stats.vercel.app/api?username=Dafeigy&show_icons=true&hide_border=true" ></code>
 </div>
 
 
