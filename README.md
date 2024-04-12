@@ -37,8 +37,8 @@
 <code><img width="18%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </div>
 
-![](https://github-readme-stats.vercel.app/api?username=Dafeigy&show_icons=true&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dafeigy)
+![](https://github-readme-stats.vercel.app/api?username=Dafeigy&show_icons=true&hide_border=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dafeigy&layout=compact&count_private=true&hide=javascript,html,tex,css,scss)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
