@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: cybersh1t@126.com,
   
-- 💬 Write my CN blog at: [Blog](https://cybercolyce.cn/)
+- 💬 My OAI CN blog at: [Blog](https://cybercolyce.cn/)
   
 - 🎮 Play with me on Steam ID：925879378
 
