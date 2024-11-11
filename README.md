@@ -26,7 +26,7 @@
 <code><img width="18%" src="https://www.vectorlogo.zone/logos/commonmark/commonmark-ar21.svg"></code>
 
 
-<code><img width="18%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<code><img width="18%" src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21~v2.svg"></code>
 <code><img width="18%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
 <code><img width="18%" src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg"></code>
 <code><img width="18%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
