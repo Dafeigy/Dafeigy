@@ -21,7 +21,7 @@
 <div>
   
 <code><img width="18%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="18%" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></code>
+<code><img width="18%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"></code>
 <code><img width="18%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>
 <code><img width="18%" src="https://www.vectorlogo.zone/logos/commonmark/commonmark-ar21.svg"></code>
 
