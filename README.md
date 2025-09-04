@@ -6,7 +6,7 @@
 
 - 🫠 Postgraduate in Communiocation Engineering at 🇨🇳 [USTB](https://www.ustb.edu.cn/)
 
-- 🔭 I’m currently working on **Integrated Sensing and Communication** in 5G NR.
+- 🔭 I’m currently working on **RAG Engineering**.
 
 - 📫 How to reach me: cybersh1t@126.com,
   
